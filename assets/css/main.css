@@ -71,6 +71,14 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* MY STYLING */
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
 .running {
   animation: pageLoad 2s;
 }
